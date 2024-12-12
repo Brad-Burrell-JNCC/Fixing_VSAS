@@ -325,7 +325,7 @@ def add_timebins(in_data_dir, out_data_dir, driver):
 
 # Please paste the directory with all VSAS files that require fixing.
 # esas_data_dir = input("Please enter Parent Directory for VASA: ")
-esas_data_dir = r"C:\VSAS-Backup\VSAS"
+esas_data_dir = #TODO: Add Path
 
 # Delete Previous Runs
 for dirpath, dirnames, filenames in os.walk(esas_data_dir):
