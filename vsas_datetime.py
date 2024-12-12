@@ -5,7 +5,7 @@ from osgeo import ogr
 # from geopy.distance import geodesic as GD
 
 
-data_dir = "C:\\Users\\Brad.Burrell\\OneDrive - Joint Nature Conservation Committee\\Fixing_VSAS\\Data"
+data_dir = #TODO: Add Path
 reference_dir = "{}\\Reference".format(data_dir)
 source_data_dir = "{}\\Source_Data".format(data_dir)
 wip_data_dir = "{}\\WIP_Data".format(data_dir)
