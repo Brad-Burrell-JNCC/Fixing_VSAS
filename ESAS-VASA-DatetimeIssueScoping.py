@@ -3,7 +3,7 @@ import shutil
 from osgeo import ogr
 import csv
 
-esas_data_dir = r"T:\Programme 072 Marine Monitoring\207 Seabird and Cetacean Monitoring Advice\Seabirds_and_Cetaceans\Seabirds\Seabirds at Sea"
+esas_data_dir = r"" #TODO: Add path Locally
 driver = ogr.GetDriverByName('ESRI Shapefile')
 header = ['NAME', 'YEAR', 'AOI', 'PROJECT', 'PARENT', 'FEATURE COUNT', 'DATETIME COUNT', 'DATE COUNT', 'NO DATETIME']
 # cwd = os.getcwd()
