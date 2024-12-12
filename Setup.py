@@ -2,7 +2,7 @@ import os
 import shutil
 
 cwd = os.getcwd()
-test_data_dir = r'T:\Programme 072 Marine Monitoring\207 Seabird and Cetacean Monitoring Advice\Seabirds_and_Cetaceans\Seabirds\Seabirds at Sea\VSAS\2_Scotland\5_Data\2022 data\20220108_ArdBro\projects\projects\esas2021'
+test_data_dir = #TODO: Add Path to VSAS Direcotry
 in_data_dir = '{}\\In_Data'.format(cwd)
 out_data_dir = '{}\\Out_Data'.format(cwd)
 
