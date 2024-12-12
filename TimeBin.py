@@ -297,8 +297,8 @@ if __name__ == '__main__':
 
     call(["python", "Setup.py"])
 
-    data_in = "Y:\\Digital and Data Solutions\\Brad Burrell\\Fixing-VSAS\\Ready_to_TimeBin"
-    esas_dir = "Y:\\Digital and Data Solutions\\Brad Burrell\\Fixing-VSAS"
+    data_in = #TODO: Add Path
+    esas_dir = #TODO: Add Path
 
     add_timebins(in_data_dir=data_in,
                  out_data_dir=esas_dir)
